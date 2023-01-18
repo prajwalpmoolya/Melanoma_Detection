@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma-Detection
 > Outline a brief description of your project.
 
 
